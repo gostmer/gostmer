@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gostmer
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on games
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me matheusfsantarita@gmail.com // inta = matheusfgost
 
 <!---
